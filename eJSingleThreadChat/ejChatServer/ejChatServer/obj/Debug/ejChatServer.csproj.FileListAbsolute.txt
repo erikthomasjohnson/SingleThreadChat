@@ -1,0 +1,9 @@
+c:\users\erikj\documents\visual studio 2015\Projects\ejChatServer\ejChatServer\bin\Debug\ejChatServer.exe.config
+c:\users\erikj\documents\visual studio 2015\Projects\ejChatServer\ejChatServer\bin\Debug\ejChatServer.exe
+c:\users\erikj\documents\visual studio 2015\Projects\ejChatServer\ejChatServer\bin\Debug\ejChatServer.pdb
+c:\users\erikj\documents\visual studio 2015\Projects\ejChatServer\ejChatServer\obj\Debug\ejChatServer.csprojResolveAssemblyReference.cache
+c:\users\erikj\documents\visual studio 2015\Projects\ejChatServer\ejChatServer\obj\Debug\ejChatServer.exe
+c:\users\erikj\documents\visual studio 2015\Projects\ejChatServer\ejChatServer\obj\Debug\ejChatServer.pdb
+C:\Users\erikj\Documents\GitHub\SingleThreadChat\eJSingleThreadChat\ejChatServer\ejChatServer\bin\Debug\ejChatServer.exe.config
+C:\Users\erikj\Documents\GitHub\SingleThreadChat\eJSingleThreadChat\ejChatServer\ejChatServer\obj\Debug\ejChatServer.exe
+C:\Users\erikj\Documents\GitHub\SingleThreadChat\eJSingleThreadChat\ejChatServer\ejChatServer\obj\Debug\ejChatServer.pdb
