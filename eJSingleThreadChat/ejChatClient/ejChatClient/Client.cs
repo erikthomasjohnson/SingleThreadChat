@@ -77,7 +77,7 @@ namespace ejChatClient
                 {
                     Console.Write("{0}> ", Name);
                     string msgOut = Console.ReadLine();
-                    Console.CursorTop -= 1;
+                    //Console.CursorTop -= 1;
                     if ((msgOut.ToLower() == "quit") || (msgOut.ToLower() == "exit"))
                     {
                         Console.WriteLine("Disconnecting...");

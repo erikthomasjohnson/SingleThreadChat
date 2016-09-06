@@ -4,3 +4,9 @@ c:\users\erikj\documents\visual studio 2015\Projects\ejChatClient\ejChatClient\b
 c:\users\erikj\documents\visual studio 2015\Projects\ejChatClient\ejChatClient\obj\Debug\ejChatClient.exe
 c:\users\erikj\documents\visual studio 2015\Projects\ejChatClient\ejChatClient\obj\Debug\ejChatClient.pdb
 C:\Users\erikj\Documents\Visual Studio 2015\Projects\ejChatClient\ejChatClient\obj\Debug\ejChatClient.csprojResolveAssemblyReference.cache
+C:\Users\erikj\Documents\GitHub\SingleThreadChat\eJSingleThreadChat\ejChatClient\ejChatClient\bin\Debug\ejChatClient.exe.config
+C:\Users\erikj\Documents\GitHub\SingleThreadChat\eJSingleThreadChat\ejChatClient\ejChatClient\obj\Debug\ejChatClient.exe
+C:\Users\erikj\Documents\GitHub\SingleThreadChat\eJSingleThreadChat\ejChatClient\ejChatClient\obj\Debug\ejChatClient.pdb
+C:\Users\erikj\Documents\GitHub\SingleThreadChat\eJSingleThreadChat\ejChatClient\ejChatClient\bin\Debug\ejChatClient.exe
+C:\Users\erikj\Documents\GitHub\SingleThreadChat\eJSingleThreadChat\ejChatClient\ejChatClient\bin\Debug\ejChatClient.pdb
+C:\Users\erikj\Documents\GitHub\SingleThreadChat\eJSingleThreadChat\ejChatClient\ejChatClient\obj\Debug\ejChatClient.csprojResolveAssemblyReference.cache

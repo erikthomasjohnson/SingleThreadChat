@@ -30,6 +30,10 @@ namespace ejChatServer
             Running = false;
             Console.WriteLine("Shutting down server");
         }
+        public void ThreadStart()
+        {
+            
+        }
         public void Run()
         {
             Console.WriteLine("Starting the \"{0}\" TCP Chat Server on port {1}.", ChatName, Port);
@@ -87,6 +91,8 @@ namespace ejChatServer
                         _clientList.Add(newClient);
                         Console.WriteLine("{0} is a Messenger with the name {1}.", endPoint, name);
                         _messageQueue.Enqueue(String.Format("{0} has joined the chat.", name));
+                        Thread chatThread = new Thread(new ThreadStart(Run));
+                        chatThread.Start();
                     }
                 }
                 else
